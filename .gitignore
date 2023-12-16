@@ -6,6 +6,9 @@
 .pnp.js
 .yarn/install-state.gz
 
+#hardhat
+/artifacts
+
 # testing
 /coverage
 
